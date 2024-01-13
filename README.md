@@ -1,4 +1,4 @@
-# Caob estimator
+# BESDAR algorithm
 
 A framework for L0 regularized high-dimensional correlated data
 
